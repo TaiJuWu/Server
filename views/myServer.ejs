@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>myServer</title>
+    <meta name="viewpoint" content="width = device-width, initial-scale = 1,maximum-sacle = 1"/>
+  </head>
+  
+  <body class="content">
+    
+    <ul>
+      
+         <%  
+         for(var i = 0;i < dir.length ; i++){  
+         %>
+            <li> 
+              <a class='dir' href= "<%= dir[i] %>"><%= dir[i] %></a> 
+              <!-- <img src='<%=dir[i]%>'> -->
+              <!-- <button id='<%=dir[i]%>' onclick="download(id)">download</button>   -->
+            </li> 
+            <!-- </br> -->
+         <%
+         } 
+         %>
+      
+    </ul>
+     
+  </body>
+
+  <script>
+    function download(id){
+      console.log(1);
+      var jump = location.protocol + '//' + location.host + '/download' + location.pathname + id;
+      console.log(jump);
+      location.href = jump;
+    }
+  </script>
+  
+</html>

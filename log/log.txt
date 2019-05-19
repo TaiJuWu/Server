@@ -1,0 +1,294 @@
+﻿::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::1  request  /
+::ffff:140.121.42.19  request  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  尚未確認的 340622.crdownload
+::ffff:140.121.42.19  upload  尚未確認的 746629.crdownload
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  尚未確認的 340622.crdownload
+::ffff:140.121.42.19  upload  尚未確認的 746629.crdownload
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  尚未確認的 340622.crdownload
+::ffff:140.121.42.19  upload  尚未確認的 746629.crdownload
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  尚未確認的 340622.crdownload
+::ffff:140.121.42.19  upload  尚未確認的 746629.crdownload
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  尚未確認的 340622.crdownload
+::ffff:140.121.42.19  upload  尚未確認的 746629.crdownload
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  upload  CH1.odt
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::ffff:140.121.42.19  upload  淡江大學中文學位證明書(遺失_更名)補發申請表ATRX-Q03-001-FM009.pdf
+::1  request  /
+::1  request upload  /
+::1  upload  尚未確認的 746629.crdownload
+::ffff:223.140.13.109  request  /
+::ffff:223.140.13.109  request  /
+::ffff:223.140.13.109 request  /Probability&statistics/
+::ffff:140.121.42.19  request upload  /
+::ffff:140.121.42.19  request  /
+::ffff:140.121.42.19 request  /Probability&statistics/
+::ffff:223.140.13.109 request  /Probability&statistics/
+::1  request  /
+::1 request  /ML_LeeHunTee/
+::1 request  /ML_LeeHunTee/465/ 但此頁面不存在 
+::ffff:140.121.44.48  request upload  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /anc=asd/ 但此頁面不存在 
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /LinuxKernel/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48  download  /Probability&statistics/CH1.odt
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /ML_LeeHunTee/
+::ffff:140.121.44.48  download  /ML_LeeHunTee/ML02.odt
+::ffff:140.121.44.48  download  /ML_LeeHunTee
+::ffff:140.121.44.48  download  /ML_LeeHunTee/
+::ffff:140.121.44.48 request  /download/ML_LeeHunTee/ 但此頁面不存在 
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /LinuxKernel/
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /LinuxKernel/
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /LinuxKernel/
+::ffff:140.121.44.48 request  /LinuxKernel/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:223.136.73.232 request  /Probability&statistics/
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:223.136.73.232  request  /
+::ffff:223.136.73.232 request  /Probability&statistics/
+::ffff:223.136.73.232 request  /Probability&statistics/
+::ffff:223.136.73.232 request  /Probability&statistics/
+::ffff:223.136.73.232  request  /
+::ffff:223.136.73.232 request  /Probability&statistics/
+::ffff:223.136.73.232 request  /Probability&statistics/
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48 request  /Probability&statistics/123/ 但此頁面不存在 
+::ffff:140.121.44.48 request  /Probability&statistics/?4556 但此頁面不存在 
+::ffff:140.121.44.48 request  /Probability&statistics/?4556=asd 但此頁面不存在 
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /Probability&statistics/?4556=asd 但此頁面不存在 
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /Probability&statistics/?4556=asd 但此頁面不存在 
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /asdads/ 但此頁面不存在 
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /SS/
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /asd/ 但此頁面不存在 
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48  request  /
+::ffff:140.121.44.48 request  /Probability&statistics/
+::ffff:140.121.44.48  request  /
+::1  request  /
+::1  request  /
+::1 request  /ML_LeeHunTee/
+::1 request  /Probability&statistics/
+::1 request  /Probability&statistics/
+::ffff:192.168.31.1  request  /
+::ffff:192.168.31.1 request  /Probability&statistics/
+::ffff:192.168.31.1  request  /
+::ffff:192.168.31.1  request  /
+::ffff:192.168.31.1 request  /ML_LeeHunTee/
+::ffff:192.168.31.1 request  /LinuxKernel/
+::ffff:192.168.31.1 request  /LinuxKernel/
+::ffff:192.168.31.1 request  /LinuxKernel/
+::ffff:192.168.31.1 request  /SS/
+::ffff:192.168.31.1 request  /SS/SS03/
+::ffff:192.168.31.1 request  /SS/SS02/
+::1  request  /
+::1  request  /
+::1  request  /
+::1 request  /ML_LeeHunTee/
+::1 request  /ML_LeeHunTee/
+::1 request  /name=name/ 但此頁面不存在 
+::1  request  /
+::1 request  /name=name/ 但此頁面不存在 
+::1  request  /
+::1  request  /
+::1 request  /Probability&statistics/
+::1 request  /Probability&statistics/
+::ffff:223.136.228.240  request  /
+::ffff:223.136.228.240 request  /Probability&statistics/
+::ffff:223.136.228.240 request  /Probability&statistics/
+::ffff:223.136.228.240  request  /
+::ffff:223.136.228.240 request  /ML_LeeHunTee/
+::ffff:223.136.228.240  request  /
+::ffff:223.136.228.240 request  /Probability&statistics/
+::ffff:223.136.228.240  request  /
+::ffff:223.136.228.240 request  /SS/
+::ffff:223.136.228.240 request  /SS/SS02/
+::ffff:223.136.228.240 request  /Probability&statistics/
+::ffff:140.121.43.49  request  /
+::ffff:140.121.43.49 request  /Probability&statistics/
+::ffff:223.136.228.240 request  /Probability&statistics/
+::ffff:223.137.158.236  request  /
+::ffff:223.137.158.236 request  /Probability&statistics/
+::1  request  /
+::1  request  /
+::1  request upload  /
+::1  request  /
+::1  request  /
+::1  request  /
+::1  request  /
+::1  request  /
+::1  request  /
+::1  request  /
+::1  request  /
+::1  request  /
+::1  request  /
+::ffff:49.218.2.142  request  /
+::ffff:192.168.31.1  request  /
+::ffff:114.24.141.77  request  /
+::ffff:114.24.141.77 request  /Probability&statistics/
+::1  request  /
+::1 request  /ML_LeeHunTee/
+::1  request  /
+::1  request  /
+::1 request  /Python%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E8%88%87AI%E6%87%89%E7%94%A8%E5%AF%A6%E5%8B%99/ 但此頁面不存在 
+::1 request  /PL_Example/
+::1 request  /Python%E8%B3%87%E6%96%99%E7%A7%91%E5%AD%B8%E8%88%87AI%E6%87%89%E7%94%A8%E5%AF%A6%E5%8B%99/ 但此頁面不存在 
+::1  request  /
+::1  request upload  /
+::1  request upload  /
+::1  request  /
+::1 request  /LinuxKernel/
+::1  request  /
+::1  download  /LinuxKernel/LinuxKernel.odt
+::1 request  /LinuxKernel/
+::1 request  /LinuxKernel/
+::1  request  /
+::ffff:10.46.227.131  request  /
+::ffff:10.46.227.131  request upload  /
+::ffff:10.46.227.131  upload  1.png
+::1  request  /
+::1 request  /15572283645791.png/ 但此頁面不存在 
+::1  request upload  /
+::1  request  /
+::1 request  /python/
+::1  download  /python/ch41.py
+::1 request  /python/
+::1 request  /python/
+::1 request  /python/
+::1 request  /python/
+::1  request  /
+::1  request upload  /
+::1  upload  101112.jpg
+::1  request  /
+::1  request upload  /
+::1  download  
+::1  download  /
+::1 request  /download/ 但此頁面不存在 
